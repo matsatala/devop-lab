@@ -1,1 +1,2 @@
 Autor: Mateusz Satala
+Kurs: DevOps
